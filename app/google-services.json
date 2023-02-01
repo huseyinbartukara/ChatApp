@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480431123231",
+    "project_id": "chatappproject-d37e9",
+    "storage_bucket": "chatappproject-d37e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480431123231:android:baf33dcd541310086c1e2a",
+        "android_client_info": {
+          "package_name": "com.bartukaraa.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480431123231-ea0c9124pj8n6cemusv10gnig21e8vb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTjjxbyrGiaMNahbn-X8LxDwyuc9vBhT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480431123231-ea0c9124pj8n6cemusv10gnig21e8vb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
